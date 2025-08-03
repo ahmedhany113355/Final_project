@@ -233,9 +233,10 @@ This project reflects practical application of clean Flutter development, modula
 
 ---
 📸 project photos 
-C:\Users\ahmed\Desktop\final_project\lib\assets\images\1.jpg
-C:\Users\ahmed\Desktop\final_project\lib\assets\images\2.jpg
-C:\Users\ahmed\Desktop\final_project\lib\assets\images\3.jpg
-C:\Users\ahmed\Desktop\final_project\lib\assets\images\4.jpg
-C:\Users\ahmed\Desktop\final_project\lib\assets\images\5.jpg
-C:\Users\ahmed\Desktop\final_project\lib\assets\images\6.jpg
+![alt text](lib/assets/images/1.jpg)
+![alt text](lib/assets/images/2.jpg)
+![alt text](lib/assets/images/3.jpg)
+![alt text](lib/assets/images/4.jpg)
+![alt text](lib/assets/images/5.jpg)
+![alt text](lib/assets/images/6.jpg)
+![alt text](lib/assets/images/7.jpg)
