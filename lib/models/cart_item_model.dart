@@ -1,0 +1,30 @@
+
+import 'package:my_ecommerce_app/models/product_model.dart'; 
+class CartItem {
+  final String id;
+  final String productId;
+  final String name;
+  final int quantity;
+  final double price;
+  final String imageUrl;
+
+  CartItem({
+    required this.id,
+    required this.productId,
+    required this.name,
+    required this.quantity,
+    required this.price,
+    required this.imageUrl,
+  });
+
+  Product toProduct() {
+    return Product(
+      id: productId,
+      name: name,
+      description:
+          '�� ���� ��� ���� ���� ���� ������.', 
+      price: price,
+      imageUrl: imageUrl,
+      );
+  }
+}
